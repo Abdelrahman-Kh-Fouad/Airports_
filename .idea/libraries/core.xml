@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="core">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/processing-3.5.4/core" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/processing-3.5.4/core" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/processing-3.5.4/core" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/processing-3.5.4/core" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/processing-3.5.4/core" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/processing-3.5.4/core" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/processing-3.5.4/core" recursive="false" type="SOURCES" />
+  </library>
+</component>

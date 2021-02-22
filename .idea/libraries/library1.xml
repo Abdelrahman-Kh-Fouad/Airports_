@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="library1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Unfloding/library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Unfloding/library" recursive="false" />
+  </library>
+</component>
